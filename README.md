@@ -1,6 +1,7 @@
 # Clothing-Sales-Insights-Customer-Shopping-Analysis
 
 - Customer Shopping Behavior Analysis
+
 📌 Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
